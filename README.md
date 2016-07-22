@@ -4,6 +4,7 @@ Everything about Azure
 ## Virtual Machines
 * [Instance types](https://azure.microsoft.com/en-in/pricing/details/virtual-machines/)
 * [Regions](https://azure.microsoft.com/en-us/regions/) and [available features](https://azure.microsoft.com/en-us/regions/#services)
+* [Azure VM Monitoring Guide](https://www.datadoghq.com/blog/how-to-monitor-microsoft-azure-vms/)
 
 ##[Language Support](https://azure.microsoft.com/en-us/documentation/)
 
